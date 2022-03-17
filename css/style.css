@@ -1,0 +1,72 @@
+.btn-color{
+    background-color: white;
+    color:#3F87F5;
+    font-weight: 700;
+    font-size: 18px;
+}
+.slide img{
+    height: 80vh;
+    object-fit: cover;
+}
+.text-color{
+    color: dimgrey
+}
+.toast-style{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.card-title-font{
+    font-family: 'Roboto', sans-serif;
+    color:#231D4F;
+}
+.card-details{
+    font-family: 'Poppins', sans-serif;
+    color:#848199;
+}
+.card-btn{
+    font-family: 'Roboto', sans-serif;
+    color:#3F87F5;
+    background-color:#F496D1;
+}
+.hot-icon {
+   top: -13px;
+    z-index: 1;
+    right: 36px;
+    background-color: purple;
+}
+.highlighted-card{
+    background-color: #3F87F5;
+    border-radius: 20px;
+    box-shadow: 0px 30px 20px 0px rgba(22, 33, 61, 0.555);
+  
+}
+.special-card{
+    background-color: #3F87F5;
+    font-family: 'Poppins', sans-serif;
+}
+.clients-text{
+    font-family: 'Poppins', sans-serif;
+    color: dimgrey;
+}
+.subscribe-bg{
+    background-color: #fceae8;
+}
+footer{
+    background-color: #0B0D17;
+    width: 1440px;
+    height: 280px;
+}
+.apps img{
+    width: 135px;
+    height: 40px;
+}
+.fa-brands{
+    font-size: 24px;
+    padding-right: 15px;
+    transition: transform 2s ease-in-out;
+}
+.fa-brands:hover{
+    transform: scale(1.5);
+
+}
